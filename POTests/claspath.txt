@@ -1,0 +1,1 @@
+export CLASSPATH="/home/artur/AmbienteDeTrabalhoUbuntu/IST/Object_Oriented_Programming/projeto_2024/030/po-uilib/po-uilib.jar":"/home/artur/AmbienteDeTrabalhoUbuntu/IST/Object_Oriented_Programming/projeto_2024/030/hva-core/hva-core.jar":"/home/artur/AmbienteDeTrabalhoUbuntu/IST/Object_Oriented_Programming/projeto_2024/030/hva-app/hva-app.jar"
